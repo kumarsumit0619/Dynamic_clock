@@ -1,4 +1,5 @@
 setInterval(() => {
+    /* interval settings*/
     d = new Date();
     htime = d.getHours();
     mtime = d.getMinutes();
